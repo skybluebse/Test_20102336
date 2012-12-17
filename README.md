@@ -17,11 +17,14 @@ If you can't find your answers there, feel free to ask us via Twitter (@cloud9id
 
 Happy coding!
 
-Hello
+HELLO]
 =============
-Seongeun Bae
+Seongeun 
 -------------
-git commit -a -m "modify readme" 
-aaaaa
+
+git add README.md
+git dongyang_20102336.js
+
+git commit -a -m "modify readme"
 
 git push
